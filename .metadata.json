@@ -1,0 +1,10 @@
+[
+  {
+    "package": "FlickrAPI",
+    "oncran": true
+  },
+  {
+    "package": "NBAloveR",
+    "oncran": true
+  }
+]
